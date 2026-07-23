@@ -3,7 +3,7 @@ import { WalletProvider } from './types';
 export const WALLET_PROVIDERS: WalletProvider[] = [
 {
   name: 'MetaMask',
-  logo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/MetaMask_Fox.svg/2048px-MetaMask_Fox.svg.png'
+  logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF76s2xdmxxkRsOpzZcmiejr2hYa926NWR15WSNAVw_XoqHhogwQse2jMB&s=10'
 },
 {
   name: 'Trust Wallet',
